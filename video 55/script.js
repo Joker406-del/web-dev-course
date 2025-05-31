@@ -5,7 +5,7 @@ let c = "harry"
 console.log(a + b + c)
 console.log(c + 4,typeof c)
 const obj ={
-    name:"uzair",
+    name:"harry",
     passion:"coding",
 }
 console.log(obj)
